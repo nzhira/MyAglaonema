@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "48623352303",
+    "project_id": "scanaglao",
+    "storage_bucket": "scanaglao.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48623352303:android:ff578069c5ab242cde1e1a",
+        "android_client_info": {
+          "package_name": "com.example.scanaglao"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxxsC7l8fd2eEtwuT4n2K1o_W2RR_EkU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
